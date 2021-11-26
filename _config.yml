@@ -2,7 +2,9 @@ theme: jekyll-theme-minimal
 
 title: 金融知识手册
 show_downloads: false
-
+safe: true
+url: https://finman.zning.me
+enforce_ssl: finman.zning.me
 timezone: Asia/Shanghai
 author: ZNing
 
