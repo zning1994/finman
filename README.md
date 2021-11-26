@@ -12,4 +12,4 @@
 
 ## 行业新闻
 
-* [期货升水](./post/news/doc-ikftssap2262605.html)
+* [银保监会1号罚单！农行“六宗罪”被罚420万](./post/news/doc-ikftssap2262605.html)
