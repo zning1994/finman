@@ -9,6 +9,9 @@
 * [期货升水](./post/basic_sense/contango.html)
 * [如何简单明了解释升水和贴水的含义？](./post/basic_sense/35163415.html)
 * [期货升水和期货贴水分别是什么？](./post/basic_sense/77147031.html)
+* [期货贴水的真正原因剖析 - 贴水系列1](./post/basic_sense/164707033.html)
+* [商品ETF投资中的滚动收益是怎么实现的？——贴水系列2](./post/basic_sense/164808202.html)
+* [滚动收益最大化策略简示 – 贴水系列 4](./post/basic_sense/166112158.html)
 
 ---
 
