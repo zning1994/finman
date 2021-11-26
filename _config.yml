@@ -2,6 +2,7 @@ theme: jekyll-theme-minimal
 
 title: ZNing的金融基础知识手册
 description: ZNing的金融基础知识手册
+show_downloads: false
 
 timezone: Asia/Shanghai
 safe: true
