@@ -1,6 +1,6 @@
 # 期货升水
 
-> 来源：<https://zh.wikipedia.org/wiki/%E6%9C%9F%E8%B4%A7%E5%8D%87%E6%B0%B4>
+> 源：<https://zh.wikipedia.org/wiki/%E6%9C%9F%E8%B4%A7%E5%8D%87%E6%B0%B4>
 
 **期货升水**，简称**升水**（英语：contango或forwardation），又称**正价差**，是指一种商品的[期货价格](https://zh.wikipedia.org/wiki/期货)比合同到期日预期[现货价格](https://zh.wikipedia.org/wiki/現貨)更高的情况[[1\]](https://zh.wikipedia.org/wiki/期货升水#cite_note-investopedia_contango-1)。与之相反的称为期货[贴水](https://zh.wikipedia.org/w/index.php?title=贴水&action=edit&redlink=1)或“逆价差”（backwardation）。
 
