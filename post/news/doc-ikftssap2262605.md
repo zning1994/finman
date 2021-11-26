@@ -1,6 +1,6 @@
 # 银保监会1号罚单！农行“六宗罪”被罚420万
 
-> 来源：https://finance.sina.com.cn/money/bank/gsdt/2021-02-01/doc-ikftssap2262605.shtml
+> 来源：<https://finance.sina.com.cn/money/bank/gsdt/2021-02-01/doc-ikftssap2262605.shtml>
 
 **银保监会1号罚单！农行“六宗罪”被罚420万**
 
