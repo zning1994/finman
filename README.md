@@ -6,7 +6,12 @@
 
 ## 基础知识
 
-* [期货升水](./post/basic_sense/contango.html)
+* [银行业基础知识点](./post/basic_sense/bank_common_sense.html)
+* [证券业基础知识点](./post/basic_sense/security_common_sense.html)
+* [基金业基础知识点](./post/basic_sense/fund_common_sense.html)
+* [期货业基础知识点](./post/basic_sense/future_common_sense.html)
+
+
 * [如何简单明了解释升水和贴水的含义？](./post/basic_sense/35163415.html)
 * [期货升水和期货贴水分别是什么？](./post/basic_sense/77147031.html)
 * [期货贴水的真正原因剖析 - 贴水系列1](./post/basic_sense/164707033.html)
