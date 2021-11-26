@@ -1,5 +1,8 @@
-titie: ZNing的金融基础知识手册
 theme: jekyll-theme-minimal
+
+title: ZNing的金融基础知识手册
+description: ZNing的金融基础知识手册
+
 timezone: Asia/Shanghai
 safe: true
 url: https://financial.wiki.zning.me/
