@@ -1,3 +1,7 @@
 titie: ZNing的金融基础知识手册
 theme: jekyll-theme-minimal
 timezone: Asia/Shanghai
+safe: true
+url: https://financial.wiki.zning.me/
+enforce_ssl: financial.wiki.zning.me
+author: ZNing
