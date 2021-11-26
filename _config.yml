@@ -5,9 +5,6 @@ description: ZNing的金融基础知识手册
 show_downloads: false
 
 timezone: Asia/Shanghai
-safe: true
-url: https://financial.wiki.zning.me/
-enforce_ssl: financial.wiki.zning.me
 author: ZNing
 
 google_analytics: G-MTYH758FNF
