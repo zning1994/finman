@@ -34,3 +34,11 @@
 ## 行业规定
 
 * [中国人民银行关于加强支付受理终端及相关业务管理的通知（银发〔2021〕259号）](./post/rules/4359567.html)
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
