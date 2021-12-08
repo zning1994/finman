@@ -1,6 +1,7 @@
 ---
 layout: default
 title:  "首页"
+permalink: /
 ---
 
 ## 基础知识
