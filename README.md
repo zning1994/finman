@@ -35,6 +35,8 @@ permalink: /
 
 * [中国人民银行关于加强支付受理终端及相关业务管理的通知（银发〔2021〕259号）](./post/rules/4359567.html)
 
+### 测试区
+
 <ul>
   {% for post in site.posts %}
     <li>
@@ -42,3 +44,12 @@ permalink: /
     </li>
   {% endfor %}
 </ul>
+
+{% for tag in site.tags %}
+  <h3>{{ tag[0] }}</h3>
+  <ul>
+    {% for post in tag[1] %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+{% endfor %}
